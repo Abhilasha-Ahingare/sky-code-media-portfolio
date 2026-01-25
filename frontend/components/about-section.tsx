@@ -9,7 +9,7 @@ export function AboutSection() {
       icon: Target,
       title: "Mission Driven Approach",
       description:
-        "We are committed to delivering exceptional digital solutions that drive real, measurable business results and create lasting value for our clients.",
+        "We are committed to delivering exceptional digital solutions that drive real, measurable business results and create lasting value for our clients",
     },
     {
       icon: Users,
