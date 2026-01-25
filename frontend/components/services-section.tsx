@@ -49,7 +49,7 @@ export function ServicesSection() {
       icon: Shield,
       title: "Cybersecurity Solutions",
       description:
-        "Comprehensive security services to protect your digital assets, ensure compliance, and maintain customer trust with enterprise-grade security protocols.",
+        "Comprehensive security services to protect your digital assets, ensure compliance, and maintain customer trust with enterprise-grade security protocols..",
       features: ["Security Audits & Testing", "Penetration Testing", "Compliance Management", "Threat Monitoring"],
     },
     {
