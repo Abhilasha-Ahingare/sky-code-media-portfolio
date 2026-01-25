@@ -14,7 +14,7 @@ const testimonials = [
     image: "/professional-woman-headshot.png",
     content:
       "Sky Code Media transformed our vision into reality. Their expertise in web development and attention to detail exceeded our expectations. The team delivered a stunning platform that has significantly increased our conversions.",
-    rating: 5,
+    rating: 4,
   },
   {
     name: "Michael Chen",
